@@ -2,7 +2,7 @@
 
 # 📊 MySQL Database Guide
 
-![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1920px-MySQL_logo.svg.png){width=300 height=150}
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1920px-MySQL_logo.svg.png" alt="MySQL Logo" width="300" height="150">
 
 Bienvenido a la guía completa sobre MySQL, donde exploramos desde los fundamentos hasta temas avanzados. Este repositorio está diseñado para ser tu referencia definitiva para todo lo relacionado con MySQL.
 
