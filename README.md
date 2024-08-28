@@ -13,16 +13,17 @@ Bienvenido a la guía completa sobre MySQL, donde exploramos desde los fundament
    - Windows
    - MacOS
    - Linux
-3. [Comandos SQL Básicos](#comandos-sql-básicos)
+3. [Workbench](#conociendo-workbench-basico)
+4. [Comandos SQL Básicos](#comandos-sql-básicos)
    - `CREATE`
    - `SELECT`
    - `INSERT`
    - `UPDATE`
    - `DELETE`
-4. [Gestión de Usuarios y Privilegios](#gestión-de-usuarios-y-privilegios)
-5. [Optimización y Rendimiento](#optimización-y-rendimiento)
-6. [Seguridad en MySQL](#seguridad-en-mysql)
-7. [Backups y Recuperación](#backups-y-recuperación)
+4. [Tablas y caracteristicas](#tablas-caracteristicas)
+5. [Relaciones](#relaciones)
+6. [Diagrama Entidad Relacion](#diagrama-erd)
+7. [Proyecto Final](#proyecto-final)
 
 ## 🌟 Características
 
@@ -59,4 +60,3 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 
 ¡Gracias por visitar este repositorio y por tu interés en MySQL! 🌟
-
